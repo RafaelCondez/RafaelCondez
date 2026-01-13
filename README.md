@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Rafael Condez
 
-<!--
-**RafaelCondez/RafaelCondez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor Júnior em transição de carreira para Tecnologia da Informação, 
+recém-formado em Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+## 🧠 Tecnologias e conhecimentos
+- Python
+- JavaScript
+- Lógica de Programação
+- Automação de Processos
+- Git e GitHub
+- SQL (básico)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projeto em destaque
+🔹 [Automação de Cadastro de Produtos](https://github.com/RafaelCondez/automacao-cadastro-produtos)  
+Automação de tarefas repetitivas utilizando Python, PyAutoGUI e Pandas.
+
+## 🚀 Em evolução
+Atualmente focado em:
+- Consolidação de fundamentos de desenvolvimento
+- Criação de projetos práticos
+- Boas práticas de código
+
+📫 **Contato**
+- LinkedIn: https://linkedin.com/in/rafaelcondezk
+
